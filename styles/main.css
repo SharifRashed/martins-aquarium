@@ -1,7 +1,2 @@
-h2 {
-  display: flex;
-  justify-content: center;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 7em;
-  color: blue;
-}
+@import url(./quotes.css);
+@import url(./fish.css);
